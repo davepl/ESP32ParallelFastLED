@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/dave/Library/Arduino15/packages/esp32/tools/**",
+                "/Users/dave/Library/Arduino15/packages/esp32/hardware/esp32/1.0.1/**",
+                "/Users/dave/Documents/Arduino/libraries/FastLED2",
+                "/Users/Dave/Documents/Arduino/libraries/U8g2/src",
+                "/Users/Dave/Documents/Arduino/libraries/Adafruit_GFX_Library/**"
+            ],
+            "forcedInclude": [],
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
